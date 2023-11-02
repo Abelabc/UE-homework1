@@ -1,11 +1,16 @@
-windows平台视频和安装包
+###windows平台视频和安装包
 
 https://share.weiyun.com/6POlfRpP
+
+### 实现功能
+
 *小地图*
 
-![小地图](https://github.com/Abelabc/UE-homework1/blob/main/pic/smallmap.png "小地图")
+实现小地图，箭头可以同人物一起旋转，小地图也跟随人物位置改变视窗。
 
-![箭头](https://github.com/Abelabc/UE-homework1/blob/main/pic/%E7%AE%AD%E5%A4%B4.jpg "箭头")
+![小地图](https://github.com/Abelabc/UE-homework1/blob/main/pic/smallmap.png "小地图"){:height="100px" width="400px"}
+
+![箭头](https://github.com/Abelabc/UE-homework1/blob/main/pic/%E7%AE%AD%E5%A4%B4.jpg "箭头"){:height="100px" width="400px"}
 
 *排行榜*
 
